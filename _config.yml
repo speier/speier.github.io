@@ -1,0 +1,55 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+gems:
+  - jemoji
+
+# Site settings
+title: "Kalman Speier"
+description: > # this means to ignore newlines until "email:"
+   Logbook of my journey in software development.
+
+email: kalman.speier@gmail.com
+#blog logo
+logo: "/assets/images/logo.png"
+# blog cover
+cover: "/assets/images/background.jpg"
+
+name: 'Kalman Speier'
+author: 'Kalman Speier'
+author_image: "/assets/images/kspeier.png"
+
+paginate:	10
+
+url: "https://kalmanspeier.com" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/kalmanspeier
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/speier
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:

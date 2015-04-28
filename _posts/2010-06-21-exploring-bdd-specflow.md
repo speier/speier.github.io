@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Exploring BDD: SpecFlow
+title:  "Exploring BDD: SpecFlow"
 date:   2010-06-21
 image: /assets/article_images/2010-06-21-Exploring-BDD-SpecFlow/flow.jpg
 tags:

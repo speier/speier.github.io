@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GitHub private repos as npm dependencies"
+title:  GitHub private repos as npm dependencies
 date:   2013-02-23
 image: /assets/article_images/2013-02-23-GitHub-private-repos-as-npm-dependencies/octocat.jpg
 tags:

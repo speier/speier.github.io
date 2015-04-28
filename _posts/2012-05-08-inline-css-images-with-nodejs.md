@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inline CSS images with Node.js"
+title:  Inline CSS images with Node.js
 date:   2012-05-08
 image: /assets/article_images/2012-05-08-Inline-CSS-images-with-Nodejs/cascading-waterfall.jpg
 tags:

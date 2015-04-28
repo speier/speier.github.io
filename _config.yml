@@ -4,6 +4,8 @@ highlighter: pygments
 gems:
   - jemoji
 
+permalink: /:year/:month/:title.html
+
 # Site settings
 title: "Kalman Speier"
 description: > # this means to ignore newlines until "email:"

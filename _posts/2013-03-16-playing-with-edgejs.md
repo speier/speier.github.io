@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Playing with Edge.js"
+title:  Playing with Edge.js
 date:   2013-03-16
 image: /assets/article_images/2013-03-16-Playing-with-Edgejs/cubes.jpg
 tags:

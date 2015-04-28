@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Material"
+title:  Introducing Material
 date:   2013-06-10
 image: /assets/article_images/2013-06-10-Introducing-Material/material.jpg
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DotCloud for Windows"
+title:  DotCloud for Windows
 date:   2012-04-09
 image: /assets/article_images/2012-04-09-DotCloud-for-Windows/cloud.jpg
 tags:

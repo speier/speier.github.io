@@ -2,8 +2,10 @@
 layout: post
 title:  "Playing with Edge.js"
 date:   2013-03-16
-categories: c#, node.js
 image: /assets/article_images/2013-03-16-Playing-with-Edgejs/cubes.jpg
+tags:
+- c#
+- node.js
 ---
 
 Today I have decided to try out [Edge.js](https://github.com/tjanczuk/edge), which allows to run `.NET` and `Node.js` code in-process. It's a great and very clever idea, we can reuse existing `.NET` class libraries in Node.js packages or applications. So I have created a small test project in `Node.js` to try out how can I call a `C#` class library's method.

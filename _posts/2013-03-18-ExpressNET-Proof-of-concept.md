@@ -2,8 +2,9 @@
 layout: post
 title:  "Express.NET: Proof of concept"
 date:   2013-03-18
-categories: c#
 image: /assets/article_images/2013-03-18-ExpressNET-Proof-of-concept/train.jpg
+tags:
+- c#
 ---
 
 

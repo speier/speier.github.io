@@ -2,8 +2,9 @@
 layout: post
 title:  "Inline CSS images with Node.js"
 date:   2012-05-08
-categories: node.js
 image: /assets/article_images/2012-05-08-Inline-CSS-images-with-Nodejs/cascading-waterfall.jpg
+tags:
+- node.js
 ---
 
 While developing a new JS framework at my workplace *(unfortunately non open source)*, I'm using [Node.js](http://nodejs.org/) to handle all dependencies (thanks to [npm](http://npmjs.org)) and the build process (thanks to [jake](https://github.com/mde/jake)). The other day we have decided to write a simple `jake` task which gives us the ability to include `Base64` encoded images into `CSS` files on build.

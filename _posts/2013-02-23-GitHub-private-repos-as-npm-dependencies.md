@@ -2,8 +2,10 @@
 layout: post
 title:  "GitHub private repos as npm dependencies"
 date:   2013-02-23
-categories: github, npm
 image: /assets/article_images/2013-02-23-GitHub-private-repos-as-npm-dependencies/octocat.jpg
+tags:
+- github
+- npm
 ---
 
 As I'm working with Node.js I have a few modules what I'd like to share between different applications. Let's say I have a module with a few common middlewares for [Express](http://expressjs.com) which I want to reuese time to time. npm is a great tool to resolve dependencies but what if my apps and modules are private?

@@ -2,8 +2,9 @@
 layout: post
 title:  "Introducing Material"
 date:   2013-06-10
-categories: node.js
 image: /assets/article_images/2013-06-10-Introducing-Material/material.jpg
+tags:
+- node.js
 ---
 
 

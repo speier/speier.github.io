@@ -2,8 +2,9 @@
 layout: post
 title:  "Visit required files in Node.js"
 date:   2012-05-06
-categories: node.js
 image: /assets/article_images/2012-05-16-Visit-required-files-in-Nodejs/path.jpg
+tags:
+- node.js
 ---
 
 After a few hours of rambling finally I got a working `node-visitor`. Which recursively visits every required module starting from the definied entry point.

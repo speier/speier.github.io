@@ -2,8 +2,9 @@
 layout: post
 title:  "Exploring BDD: SpecFlow"
 date:   2010-06-21
-categories: bdd
 image: /assets/article_images/2010-06-21-Exploring-BDD-SpecFlow/flow.jpg
+tags:
+- bdd
 ---
 
 I have heard a lot of nice things about BDD (Behavior Driven Development), so today I have decided to try out [SpecFlow](http://www.specflow.org). I have downloaded and installed. Then I have created a new/empty WPF application and added a very simple calculator interface (with one sum method) and implemented.
